@@ -15,8 +15,11 @@ int main()
 	double x;
 	double z1;
 	double z2;
+<<<<<<< HEAD
 	
 	cout << "Print text";
+=======
+>>>>>>> 869e190a3bffa3705037733f1ee8d265e4c578ae
 	cout << "added message";
 	cout << "Enter x: ";
 	cin >> x;
