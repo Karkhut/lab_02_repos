@@ -16,6 +16,7 @@ int main()
 	double z1;
 	double z2;
 	
+	cout << "added message";
 	cout << "Enter x: ";
 	cin >> x;
 
